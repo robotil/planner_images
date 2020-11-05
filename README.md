@@ -1,6 +1,8 @@
 # planner_images
 Dockerfiles and entrypoints scripts
 
+[More details](https://docs.google.com/document/d/1dprwyMjqmDyEw7cEfc84zHTsl0dri4PhaRQ7pEyIIu0/edit?usp=sharing)
+
 This repository includes the collaterals needed in order to create a docker image.
 There are two relevant images: planner-src and planner-img
 
